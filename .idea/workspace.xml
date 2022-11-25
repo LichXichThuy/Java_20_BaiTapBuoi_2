@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dca11ced-7068-4ecb-8f6b-047ea5f52f6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTapBuoi_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_BaiTapBuoi_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_BaiTapBuoi_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_BaiTapBuoi_2/.idea/Java_20_BaiTapBuoi_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_BaiTapBuoi_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_BaiTapBuoi_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_BaiTapBuoi_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_Exercise_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_Exercise_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_Exercise_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_Exercise_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_20_Exercise_2/Java_20_Exercise_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinhTienKaraoke.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I0vs5x4KLIB3CkI4InUyQ1pkrB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dca11ced-7068-4ecb-8f6b-047ea5f52f6b" name="Changes" comment="" />
+      <created>1669331522287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669331522287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
