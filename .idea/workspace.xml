@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca11ced-7068-4ecb-8f6b-047ea5f52f6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bai_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
