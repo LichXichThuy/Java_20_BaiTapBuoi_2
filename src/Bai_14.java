@@ -1,33 +1,41 @@
-//import java.lang.reflect.Array;
-//import java.util.List;
 //import java.util.Scanner;
 //
 //public class Bai_14 {
 //    public static void main(String[] args) {
+//        int[] a;
+//        int n, x=0;
 //        Scanner scanner = new Scanner(System.in);
-//        // Nhập vào số phần tử của mảng
-//        System.out.print("Nhập vào số phần tử của mảng: n = ");
-//        int n = scanner.nextInt();
-//        // Khai báo mảng có n phần tử
-//        float[] mangNhap = new float[n];
-//        // Nhập vào từng phần tử của mảng
-//        for (int i = 0; i < n; i++){
-//            System.out.print("Phần tử số " + (i + 1) + " = ");
-//            mangNhap[i] = scanner.nextFloat();
+//        do {
+//            System.out.println("Nhap so phan tu mangn: ");
+//            n = scanner.nextInt();
+//        } while (n <= 0);
+//        a = new int[n];
+//        nhap(a, n);
+//        System.out.println("Mang da nhap la: ");
+//        xuat(a, n);
+//        for (int i= 0; i<n-1; i++) {
+//            for (int j =i+1; j<n; j++) {
+//                while (a[i] == a[j]) {
+//                    if (n==1) break;
+//                    for (int k = j; k<n-1; k++){
+//                        a[k] = a[k+1];
+//                    }
+//                    n--;
+//                }
+//            }
 //        }
-//        // In ra mảng đã nhập
-//        inMang(mangNhap);
-//        //
-//        float[] mangXoaLapLai;
-//        int soPhanTuXoa = 0;
-//        for (int i = 0; i < mangNhap.length - 1; i++)
-//            for (int j = i + 1; j < mangNhap.length; j++)
+//        System.out.println("Mang da loc:");
+//        xuat(a,n);
+//    }
+//    public static void nhap(int a[],int n){
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Moi nhap vao mang: ");
+//        for (int i=0;i<n;i++)
+//            a[i] = scanner.nextInt();
 //
 //    }
-//
-//    public static void inMang(float[] mangIn){
-//        for (float item: mangIn) System.out.print(item + " ");
-//        System.out.print("\n");
+//    public static void xuat(int a[],int n){
+//        for (int i=0;i<n;i++)
+//            System.out.print(a[i] + " ");
 //    }
-//
 //}
